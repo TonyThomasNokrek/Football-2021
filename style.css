@@ -1,0 +1,48 @@
+/*------------ google fonts -----------*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+/*------------ common styles ----------*/
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner-title{
+    display: flex;
+    background-color: blue;
+    padding-bottom: 50px;
+}
+
+.banner{ 
+    width: 50%;
+}
+
+h1{
+    color: #FFFFFF;
+    font-size: 60px;
+    width: 485px;
+    height: 230px;
+}
+
+.title-bar{
+    padding-left: 161px;
+    padding-top: 196px;
+}
+
+.banner img{
+    width: 556.01px;
+    height: 438px;
+    padding-top: 153px;
+}
+
+.live-game{
+    font-size: 16px;
+    font-weight: 500;
+    padding: 10px 24px;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #E02C6D;
+}
+
+.fa-arrow-right{
+    margin-left: 8px;
+}
